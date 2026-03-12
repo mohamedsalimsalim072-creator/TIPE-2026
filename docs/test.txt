@@ -1,1 +1,67 @@
+1️⃣ Problématique
 
+Comment déterminer le chemin optimal pour transmettre une information dans un réseau tout en minimisant le temps de transmission et l’utilisation des ressources ?
+
+2️⃣ Lien avec le thème TIPE
+Sobriété
+
+réduire la quantité de données transmises
+
+réduire le nombre de routes utilisées
+
+Efficacité
+
+transmettre l'information le plus rapidement possible
+
+Optimisation
+
+trouver le meilleur chemin dans le réseau
+
+3️⃣ Modélisation mathématique
+
+On modélise un réseau avec un graphe :
+
+sommets → ordinateurs / routeurs
+
+arêtes → connexions
+
+Chaque arête peut avoir :
+
+un temps de transmission
+
+une capacité
+
+Méthodes que je  peux étudier
+Algorithme de Dijkstra
+
+Trouver le chemin le plus court.
+
+Algorithme A*
+
+Version optimisée de Dijkstra.
+
+Algorithme de flot maximal
+
+Maximiser la quantité d'information transmise.
+
+Exemple :
+Ford-Fulkerson
+
+
+
+6️⃣ Plan possible du TIPE
+1. Modélisation du réseau
+
+graphes
+
+2. Étude théorique
+
+algorithmes de plus court chemin
+
+3. Implémentation
+
+simulation informatique
+
+4. Comparaison
+
+performance des méthodes
